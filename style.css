@@ -34,11 +34,9 @@ textarea{
   height: 80px;
   border-top: 1px solid white;;
 }
-.time-block > td:hover {
+.time-block.description:hover {
   font-weight: bold;
-  background-color: #06AED5;
-  color:#ffffff,
-  
+  opacity: 0.75
 }
 .hour {
   background-color: #ffffff;
